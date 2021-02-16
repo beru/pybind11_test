@@ -1,5 +1,5 @@
 
-This branch tests DLPack
+This branch tests tensorflow DLPack
 
 https://github.com/dmlc/dlpack
 
